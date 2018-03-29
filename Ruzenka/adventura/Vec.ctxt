@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nazev
+comment0.target=Vec(java.lang.String)
+comment0.text=\r\n\ Konstuktor\ t\u0159\u00EDdy\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNazev()
+comment1.text=\r\n\ Metoda\ vrac\u00ED\ n\u00E1zev\ v\u011Bci\r\n
+comment2.params=
+comment2.target=java.lang.String\ odebranaVec()
+numComments=3

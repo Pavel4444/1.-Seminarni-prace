@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=plan
+comment0.target=PrikazSnez(HerniPlan)
+comment0.text=\r\n\ \ Konstruktor\ t\u0159\u00EDdy\r\n\ \ \r\n\ @param\ plan\ hern\u00ED\ pl\u00E1n,\ ve\ kter\u00E9m\ se\ bude\ ve\ h\u0159e\ "j\u00EDst"\ \r\n
+comment1.params=parametry
+comment1.target=java.lang.String\ proved(java.lang.String[])
+comment1.text=\r\n\ Prov\u00E1d\u00ED\ p\u0159\u00EDkaz\ sn\u011Bz.\ Zkou\u0161\u00ED\ sn\u00EDst\ v\u011Bci,\ kter\u00E9\ jsou\ u\u017E\ vlo\u017Een\u00E9\ v\ batohu.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNazev()
+comment2.text=\r\n\ \ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ (slovo\ kter\u00E9\ pou\u017E\u00EDv\u00E1\ hr\u00E1\u010D\ pro\ jeho\ vyvol\u00E1n\u00ED)\r\n\ \ \r\n\ \ @\ return\ nazev\ prikazu\r\n
+comment3.params=
+comment3.target=java.lang.String\ chleba()
+comment3.text=\r\n\ Metoda\ zaji\u0161\u0165uje,\ \u017Ee\ v\u011Bc\ lze\ sn\u00EDst\ pouze\ pokud\ je\ ji\u017E\ v\ batohu;\ "nastav\u00ED",\ \u017Ee\ princ\ se\ u\u017E\ najedl.\r\n
+comment4.params=
+comment4.target=java.lang.String\ mec()
+comment5.params=
+comment5.target=java.lang.String\ lektvar()
+numComments=6
